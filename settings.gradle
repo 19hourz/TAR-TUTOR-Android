@@ -1,0 +1,1 @@
+include ':app', ':Baidu_MobAds_SDK'

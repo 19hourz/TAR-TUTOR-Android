@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TAR Tutor</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Name (not for sign in)</string>
+    <string name="prompt_verification">Verification (not for sign in)</string>
+    <string name="access_code">Enter access code here</string>
+    <string name="access_code_text">Access code</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="action_sign_off">Sign off</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_create_class">Create Class</string>
+    <string name="action_return_class">Return to Class</string>
+    <string name="action_back">Back</string>
+    <string name="action_choose_accesscode">Choose an access code to return</string>
+    <string name="error_invalid_name">A name is required</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_verify_failed">The verification code is wrong</string>
+    <string name="error_not_tutor">Sorry, you are not tutor</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+    completions."</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
